@@ -139,6 +139,7 @@ namespace CSharpBasic
                 Console.WriteLine("{0}", mathNotes[i]);
             }
 
+
             var students = new List<string>() {"Mihai", "Cristina" };
             //Console.WriteLine(students); //incorect
             Console.WriteLine("Students list: ");
